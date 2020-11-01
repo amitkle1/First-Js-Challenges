@@ -30,7 +30,7 @@
 ---
 ## Preview
 
-![!tab1](./assets/design/tab2.png)
+![!tab1](./assets/design/tab1.png)
 ![!tab2](./assets/design/tab2.png)
-![!tab3](./assets/design/tab2.png)
+![!tab3](./assets/design/tab3.png)
 
