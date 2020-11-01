@@ -24,10 +24,10 @@
 
 ## Instructions
 
-- [X] Clone this repository.
-- [X] Checkout to the starting-files branch
-- [X] Try to mimic the following site ( listed bellow ).
-- [X] Make the game 'work' - this is a simple rock paper scissors game with the well known rules,
+- [ ] Clone this repository.
+- [ ] Checkout to the starting-files branch
+- [ ] Try to mimic the following site ( listed bellow ).
+- [ ] Make the game 'work' - this is a simple rock paper scissors game with the well known rules,
 make sure to look in the design folder for visual explanation about the active part of the challenge.
 
 ---

@@ -23,9 +23,9 @@
 
 ## Instructions
 
-- [X] Clone this repository.
-- [X] Checkout to the starting-files branch
-- [X] We provided a slice from a project we found online what you will have to do is to complete the functional part of the projects and make the tabs work.
+- [ ] Clone this repository.
+- [ ] Checkout to the starting-files branch
+- [ ] We provided you with a section from a project we found online what you will have to do is to complete the functional part of the project and make the tabs work.
 
 ---
 ## Preview
