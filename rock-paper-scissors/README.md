@@ -53,6 +53,9 @@ Please fill free to use this style guide to complete the task.
 
 ## Preview
 
+### Desktop design
 ![!desktopPreview](./assets/design/desktop-step-1.jpg)
+
+### Mobile design
 ![!mobilePreview](./assets/design/mobile-step-1.jpg)
 
