@@ -1,7 +1,7 @@
 
 # TABS
 
-> This project is a part of our dev-club activity and will focus on dom manipulation. basic dom manipulation knowledge is required, html & css as well.
+> This project is a part of our dev-club activity and will focus on dom manipulation. basic dom manipulation knowledge is required, html & css as well. We provided you with a section from a project we found online including pre-built working html and CSS files.
 
 ---
 
@@ -25,7 +25,7 @@
 
 - [X] Clone this repository.
 - [X] Checkout to the starting-files branch
-- [X] We provided you with a section from a project we found online what you will have to do is to complete the functional part of the project and make the tabs work.
+- [X] Add a functionality to the project witch will make the tabs switch like in the example below. (you can change the html or the css files provided). 
 
 ---
 ## Preview
