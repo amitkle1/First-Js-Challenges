@@ -26,7 +26,7 @@
 
 - [ ] Clone this repository.
 - [ ] Checkout to the starting-files branch
-- [ ] Try to mimic the following site ( listed bellow ).
+- [ ] Try to mimic the following site ( listed bellow ) make sure the site is responsible ( mobile and desktop ) .
 - [ ] Make the game 'work' - this is a simple rock paper scissors game with the well known rules,
 make sure to look in the design folder for visual explanation about the active part of the challenge.
 
