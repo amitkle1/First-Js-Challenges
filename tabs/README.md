@@ -25,7 +25,7 @@
 
 - [X] Clone this repository.
 - [X] Checkout to the starting-files branch
-- [X] Add a functionality to the project witch will make the tabs switch like in the example below. (you can change the html or the css files provided). 
+- [X] Add a functionality to the project which will make the tabs switch like in the example below. (you can change the html or the css files provided). 
 
 ---
 ## Preview
